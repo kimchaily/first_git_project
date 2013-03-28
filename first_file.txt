@@ -1,1 +1,2 @@
 This is the first file in my git project. Yay!
+Now i changed something
